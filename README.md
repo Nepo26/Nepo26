@@ -1,19 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Nepo26/Nepo26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nepo26&label=Profile%20views&color=0e75b6&style=flat" alt="Nepo26" /> </p>
 
 # Henrique Nepomuceno :computer: :baby_chick:
 ### Back-End Engineer | Computer Engineer student at UFG
@@ -31,6 +17,7 @@ I almost always tend to look on security related issues, works and my main objec
 
 I don't necessarily have a favorite language as I dabled with some languages on the past. My main language right now is _NodeJS_. I have some experience with _Java_, _C_, _python_, _bash_. And had used denizen which is a scripting language of minecraft.
 
-Hmmm...I think that generally that is it. If you want some help with anything or want to contact me my info is right above.
+Hmmm...I think that generally that it is. If you want some help with anything or want to contact me my info is right above.
 
 
+![](https://hit.yhype.me/github/profile?user_id=36644628)
