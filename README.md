@@ -1,5 +1,5 @@
-### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nepo26&label=Profile%20Hits&color=0e75b6&style=flat" alt="Nepo26" /> </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Nepo26.png" alt="TryHackMe">
+<img src="https://komarev.com/ghpvc/?username=Nepo26&label=Profile%20Hits&color=0e75b6&style=flat" alt="Nepo26" />
 
 # Henrique Nepomuceno :computer: :baby_chick:
 ### Back-End Engineer | Computer Engineer student at UFG
