@@ -3,7 +3,7 @@
 
 
 # Henrique Nepomuceno :computer: :baby_chick:
-### Penetration Tester | Back-End Engineer | Computer Engineer student at UFG
+### Back-End Engineer | Computer Engineer student at UFG
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nepo26)](https://github.com/Nepo26)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-nepomuceno/)](https://www.linkedin.com/in/henrique-nepomuceno/)
