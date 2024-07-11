@@ -3,7 +3,7 @@
 
 
 # Henrique Nepomuceno :computer: :baby_chick:
-### Software Engineer | Computer Engineer student at UFG
+### Software Engineer 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nepo26)](https://github.com/Nepo26)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-nepomuceno/)](https://www.linkedin.com/in/henrique-nepomuceno/)
@@ -13,8 +13,6 @@
 Hey, I'm Henrique Nepomuceno, currently working as a Devops Analyst at ZGSoluções. Helping the Infraestructure/Devops team to provide better assistance for our developers, and helping to sustain our applications up.
 
 On my free time I'm working towards my [OSCP Certification](https://www.offensive-security.com/pwk-oscp/).
-
-I'm studying computer engineering at Goias' Federal University ( UFG ).
 
 I have a project that is curently in development called [UrutauSec](urutausec.com.br), which is a side project to iniciate students on the security side of things and instigate them to contribute to the community. **\*Currently Work In Progress\***
 
