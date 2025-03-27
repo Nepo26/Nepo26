@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nepo26.hn@gmail.com)](mailto:nepo26.hn@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=black)](https://t.me/Nepo26)
 
-Hey, I'm Henrique Nepomuceno, currently working as a Devops Analyst at ZGSoluções. Helping the Infraestructure/Devops team to provide better assistance for our developers, and helping to sustain our applications up.
+Hey, I'm Henrique Nepomuceno, currently working as a Devops Analyst at [Grupo Boticário](https://www.grupoboticario.com.br/). Helping the Infraestructure/Devops team to provide better assistance for our developers, and helping to sustain our applications up.
 
 I have a project that is curently in development called [UrutauSec](urutausec.com.br), which is a side project to iniciate students on the security side of things and instigate them to contribute to the community. **\*Currently Work In Progress\***
 
